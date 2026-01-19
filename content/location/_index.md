@@ -1,17 +1,31 @@
 ---
-title: "Welcome to Blowfish! :tada:"
-description: "This page was built using the Blowfish theme for Hugo."
+title: ""
+layout: "simple"
+---
+
 ---
 
 # Day 1
 
+## **Friday, June 13th**
+
+:pushpin: **6pm-10pm at [Royal Canadian Legion No.1]()** (116 7th ave. SE)
+
+_Masking is welcome!_ <br>
+_Masks and sanitizer will be available at the door._
+
+
+
+<br>
 
 # Day 2
 
-SATURDAY, June 14th from 12pm-6pm at Mount Royal University
+## **Saturday, June 14th**
 
-(4825 Mt Royal Gate SW)
+:pushpin: **12pm-6pm at [Mount Royal University]()** (4825 Mt Royal Gate SW)
 
-Find the conference at WEST GATE ENTRANCE - ROOM Y224 (follow the signs!)
+Find the conference at: **WEST GATE ENTRANCE - ROOM Y224** _(follow the signs!)_
+
+
 
 

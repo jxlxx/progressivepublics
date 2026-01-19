@@ -1,27 +1,31 @@
 ---
-title: "Bienvenue sur Blowfish ! :tada:"
-description: "Cette page a été créée avec le thème Blowfish pour Hugo."
+title: ""
+layout: "simple"
 ---
 
+---
 
-<div class="flex px-4 py-2 mb-8 text-base rounded-md bg-primary-100 dark:bg-primary-900">
-  <span class="flex items-center pe-3 text-primary-400">
-  </span>
-  <span class="flex items-center justify-between grow dark:text-neutral-300">
-    <span class="prose dark:prose-invert">Ceci est une démo du layout <code id="layout">background</code>.</span>
-    <button
-      id="switch-layout-button"
-      class="px-4 mx-[3px] !text-neutral !no-underline rounded-md bg-primary-600 hover:!bg-primary-500 dark:bg-primary-800 dark:hover:!bg-primary-700"
-    >
-      Changer de layout &orarr;
-    </button>
-  </span>
-</div>
+# Jour 1
+
+## **Vendredi, juin 13**
+
+:pushpin: **6pm-10pm at [Royal Canadian Legion No.1]()** (116 7th ave. SE)
+
+_Des masques sont acceptable_ <br>
+_Masques et sanitser de la main vont etre disponsable a la porte._
+
+# Jour 2
+
+## **Samedi, juin 14**
+
+:pushpin: **12pm-6pm at [Mount Royal University]()** (4825 Mt Royal Gate SW)
+
+Trouvez la conférence: **WEST GATE ENTRANCE - ROOM Y224** _(suivez les signs!)_
 
 
-```shell
-npx blowfish-tools
-```
+
+
+
 
 
 

@@ -1,27 +1,34 @@
 ---
-title: "Bienvenue sur Blowfish ! :tada:"
-description: "Cette page a été créée avec le thème Blowfish pour Hugo."
+title: "Conférences passées"
+layout: "simple"
 ---
 
+## [Montréal / février + mars 2025](https://www.eventbrite.ca/e/progressive-publics-a-symposium-connecting-scholarship-independent-media-tickets-1230533882969?aff=ebdsoporgprofile)
 
-<div class="flex px-4 py-2 mb-8 text-base rounded-md bg-primary-100 dark:bg-primary-900">
-  <span class="flex items-center pe-3 text-primary-400">
-  </span>
-  <span class="flex items-center justify-between grow dark:text-neutral-300">
-    <span class="prose dark:prose-invert">Ceci est une démo du layout <code id="layout">background</code>.</span>
-    <button
-      id="switch-layout-button"
-      class="px-4 mx-[3px] !text-neutral !no-underline rounded-md bg-primary-600 hover:!bg-primary-500 dark:bg-primary-800 dark:hover:!bg-primary-700"
-    >
-      Changer de layout &orarr;
-    </button>
-  </span>
-</div>
+[Le deuxième symposium sur les publics progressistes](https://www.eventbrite.ca/e/progressive-publics-a-symposium-connecting-scholarship-independent-media-tickets-1230533882969?aff=ebdsoporgprofile)
+se tiendra à Montréal le vendredi 28 février et le samedi 1er mars et est
+organisé par Shama Rangwala (Université York) et André Goulet
+(Harbinger/Unrigged). L’événement proposera des entrevues, des panels
+académiques et un spectacle, réunissant des universitaires et des acteur·trices
+du journalisme indépendant pour des échanges explorant la surveillance et
+l'abolition des prisons, les médias canadiens et la Palestine, la justice
+numérique, l'avenir du journalisme, la médiatisation des voix marginalisées
+et plus encore.
+
+## [Toronto / novembre 2024](https://www.eventbrite.ca/e/progressive-publics-a-symposium-connecting-scholarship-independent-media-tickets-1051089455857?aff=ebdsoporgprofile)
+
+[Le premier symposium des publics progressistes](https://www.eventbrite.ca/e/progressive-publics-a-symposium-connecting-scholarship-independent-media-tickets-1051089455857?aff=ebdsoporgprofile)
+aura lieu à Toronto les 8 et 9 novembre. Il sera animé par la Dre Shama Rangwala
+(YorkU) et Andre Goulet (Harbinger) et proposera des entrevues et des panels
+réunissant des universitaires et des médias indépendants autour de thèmes tels
+que la justice environnementale et des données, le journalisme noir canadien,
+la race et la culture populaire, ainsi que l’impérialisme canadien.
+
+## Gallery
+
+{{< carousel images="images/*" interval="2500" aspectRatio="3-4" >}}
 
 
-```shell
-npx blowfish-tools
-```
 
 
 

@@ -5,4 +5,4 @@ themes/blowfish
 public
 resources
 go.mod
-static/fonts
+# static

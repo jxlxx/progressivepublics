@@ -20,6 +20,7 @@
   name = "Tickets"
   weight = 20
   pageRef = "tickets"
+  url = "https://www.eventbrite.ca/e/progressive-publics-a-symposium-connecting-scholarship-independent-media-tickets-1363620498619?viewDetails=true"
 
 [[main]]
   name = "Schedule"

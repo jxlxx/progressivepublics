@@ -7,20 +7,15 @@ title: "Schedule"
 
 ## **Friday, June 13th**
 
-**6pm-10pm at [Royal Canadian Legion No.1]()**(116 7th ave. SE)
+:pushpin: **6pm-10pm at [Royal Canadian Legion No.1]()** (116 7th ave. SE)
 
-_Masking is welcome; masks and sanitizer will be available at the door._
-
-
-
-
-## **The Death and Life of Canadian Socialism**: _An Alberta Advantage Intervention_
-### Starts at 7pm
-
+### **The Death and Life of Canadian Socialism**: _An Alberta Advantage Intervention_
+#### Starts at 7pm
 
 Presented by: [Alberta Advantage]() + [Unrigged]() journalism community & [Harbinger]() media network.
 
 :beers: _Alcoholic drinks available to purchase!_ :beers:
+
 
 
 
@@ -31,13 +26,7 @@ Presented by: [Alberta Advantage]() + [Unrigged]() journalism community & [Harbi
 
 ## **Saturday, June 14th**
 
-**12pm-6pm at [Mount Royal University]()** (4825 Mt Royal Gate SW)
-
-Find the conference at: **WEST GATE ENTRANCE - ROOM Y224**
-
-_(follow the signs!)_
-
-
+:pushpin: **12pm-6pm at [Mount Royal University]()** (4825 Mt Royal Gate SW)
 
 
 ## **From Ear to Air**: _Growing Community through Podcasting_
@@ -45,8 +34,6 @@ _(follow the signs!)_
 
 [Harbinger Media Network]() and [Unrigged]() community director [Andre Goulet]() and
 panelists including [CJSW Podcast]() Coordinator [Kaamil Kareemi]() and others.
-
-
 
 
 ## **The New Media Hellscape**: _An Uncertain Future_

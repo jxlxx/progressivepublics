@@ -1,6 +1,5 @@
 ---
 title: "About"
-description: "About the conf."
 ---
 
 
@@ -17,9 +16,9 @@ communication to promote access, social justice, and community engagement.
 
 # :heart: Team
 
-## Andre Goulet
+## André Goulet
 
-Andre Goulet is a Community Liason, Outreach Coordinator and Strategic Planner
+André Goulet is a Community Liason, Outreach Coordinator and Strategic Planner
 at Unrigged Media, a collective journalism initiative featuring 31 independent
 publishers from across Canada and the Executive Director at the Harbinger
 Media Network, Canada's #1 progressive podcast community.
@@ -27,21 +26,21 @@ Media Network, Canada's #1 progressive podcast community.
 
 ##  Dr. Shama Rangwala
 
-Andre Goulet is a Community Liason, Outreach Coordinator and Strategic Planner
+André Goulet is a Community Liason, Outreach Coordinator and Strategic Planner
 at Unrigged Media, a collective journalism initiative featuring 31 independent
 publishers from across Canada and the Executive Director at the Harbinger
 Media Network, Canada's #1 progressive podcast community.
 
 ##  Rob Rousseau
 
-Andre Goulet is a Community Liason, Outreach Coordinator and Strategic Planner
+André Goulet is a Community Liason, Outreach Coordinator and Strategic Planner
 at Unrigged Media, a collective journalism initiative featuring 31 independent
 publishers from across Canada and the Executive Director at the Harbinger
 Media Network, Canada's #1 progressive podcast community.
 
 ## Roberta Lexier
 
-Andre Goulet is a Community Liason, Outreach Coordinator and Strategic Planner
+André Goulet is a Community Liason, Outreach Coordinator and Strategic Planner
 at Unrigged Media, a collective journalism initiative featuring 31 independent
 publishers from across Canada and the Executive Director at the Harbinger
 Media Network, Canada's #1 progressive podcast community.
@@ -49,21 +48,21 @@ Media Network, Canada's #1 progressive podcast community.
 
 ## Alberta Advantage
 
-Andre Goulet is a Community Liason, Outreach Coordinator and Strategic Planner
+André Goulet is a Community Liason, Outreach Coordinator and Strategic Planner
 at Unrigged Media, a collective journalism initiative featuring 31 independent
 publishers from across Canada and the Executive Director at the Harbinger
 Media Network, Canada's #1 progressive podcast community.
 
 ## Unrigged
 
-Andre Goulet is a Community Liason, Outreach Coordinator and Strategic Planner
+André Goulet is a Community Liason, Outreach Coordinator and Strategic Planner
 at Unrigged Media, a collective journalism initiative featuring 31 independent
 publishers from across Canada and the Executive Director at the Harbinger
 Media Network, Canada's #1 progressive podcast community.
 
 ## Harbinger Media Network
 
-Andre Goulet is a Community Liason, Outreach Coordinator and Strategic Planner
+André Goulet is a Community Liason, Outreach Coordinator and Strategic Planner
 at Unrigged Media, a collective journalism initiative featuring 31 independent
 publishers from across Canada and the Executive Director at the Harbinger
 Media Network, Canada's #1 progressive podcast community.

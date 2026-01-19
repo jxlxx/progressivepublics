@@ -46,7 +46,7 @@ h1 {
   font-family: "VulfMonoLightItalic", var(--font-sans);
   font-style: italic;
   font-weight: inherit;
-    
+  color: rgb(203, 107, 28);
 }
 
 h2,
@@ -56,23 +56,37 @@ h5,
 h6 {
   font-family: "FiraCode", var(--font-sans);
   font-weight: inherit;
+  color: var(--color-neutral);
 }
 
 p, a{
   font-family: "FiraCode", var(--font-sans);
-  font-weight: inherit;
-  color: 128, 67, 17;
+  color: var(--color-neutral);
 }
 
 a {
   font-family: "FiraCodeBold", var(--font-sans);
-  /* font-weight: 700; */
-  text-decoration: underline;    
-  text-decoration-style: wavy;
-  text-decoration-thickness: 0.075em;
 }
 
+a:hover {
+  font-family: "FiraCodeBold", var(--font-sans);
+  text-decoration: underline;    
+  text-decoration-style: wavy;
+  text-decoration-thickness: 0.085em;
+  color: rgb(203, 107, 28);
+}
 
 .main-menu a {
   font-family: "FiraCode", var(--font-sans);
+}
+
+.shrink {
+  color: rgb(203, 107, 28);
+}
+
+a.shrink {
+  color: rgb(203, 107, 28);
+  font-family: "VulfMonoLightItalic", var(--font-sans);
+  font-style: italic;
+  font-weight: inherit;
 }
