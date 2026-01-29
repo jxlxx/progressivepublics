@@ -24,46 +24,8 @@ publishers from across Canada and the Executive Director at the Harbinger
 Media Network, Canada's #1 progressive podcast community.
 
 
-##  Dr. Shama Rangwala
-
-André Goulet is a Community Liason, Outreach Coordinator and Strategic Planner
-at Unrigged Media, a collective journalism initiative featuring 31 independent
-publishers from across Canada and the Executive Director at the Harbinger
-Media Network, Canada's #1 progressive podcast community.
-
-##  Rob Rousseau
-
-André Goulet is a Community Liason, Outreach Coordinator and Strategic Planner
-at Unrigged Media, a collective journalism initiative featuring 31 independent
-publishers from across Canada and the Executive Director at the Harbinger
-Media Network, Canada's #1 progressive podcast community.
-
-## Roberta Lexier
-
-André Goulet is a Community Liason, Outreach Coordinator and Strategic Planner
-at Unrigged Media, a collective journalism initiative featuring 31 independent
-publishers from across Canada and the Executive Director at the Harbinger
-Media Network, Canada's #1 progressive podcast community.
-
-
-## Alberta Advantage
-
-André Goulet is a Community Liason, Outreach Coordinator and Strategic Planner
-at Unrigged Media, a collective journalism initiative featuring 31 independent
-publishers from across Canada and the Executive Director at the Harbinger
-Media Network, Canada's #1 progressive podcast community.
-
 ## Unrigged
 
-André Goulet is a Community Liason, Outreach Coordinator and Strategic Planner
-at Unrigged Media, a collective journalism initiative featuring 31 independent
-publishers from across Canada and the Executive Director at the Harbinger
-Media Network, Canada's #1 progressive podcast community.
 
 ## Harbinger Media Network
-
-André Goulet is a Community Liason, Outreach Coordinator and Strategic Planner
-at Unrigged Media, a collective journalism initiative featuring 31 independent
-publishers from across Canada and the Executive Director at the Harbinger
-Media Network, Canada's #1 progressive podcast community.
 

@@ -1,10 +1,21 @@
 ---
-title: ""
+title: "Conférences"
 layout: "simple"
 ---
 
-## [Montréal / février + mars 2025](https://www.eventbrite.ca/e/progressive-publics-a-symposium-connecting-scholarship-independent-media-tickets-1230533882969?aff=ebdsoporgprofile)
+# Upcoming
 
+## Montréal / Mars 2026
+
+## Winnipeg / Avril 2026
+
+# Past
+
+## Calgary / Juun 2025
+
+## Montréal / Février+Mars 2025
+
+(TODO)
 [Le deuxième symposium sur les publics progressistes](https://www.eventbrite.ca/e/progressive-publics-a-symposium-connecting-scholarship-independent-media-tickets-1230533882969?aff=ebdsoporgprofile)
 se tiendra à Montréal le vendredi 28 février et le samedi 1er mars et est
 organisé par Shama Rangwala (Université York) et André Goulet
@@ -15,7 +26,9 @@ l'abolition des prisons, les médias canadiens et la Palestine, la justice
 numérique, l'avenir du journalisme, la médiatisation des voix marginalisées
 et plus encore.
 
-## [Toronto / novembre 2024](https://www.eventbrite.ca/e/progressive-publics-a-symposium-connecting-scholarship-independent-media-tickets-1051089455857?aff=ebdsoporgprofile)
+## Toronto / Novembre 2024
+
+(TODO)
 
 [Le premier symposium des publics progressistes](https://www.eventbrite.ca/e/progressive-publics-a-symposium-connecting-scholarship-independent-media-tickets-1051089455857?aff=ebdsoporgprofile)
 aura lieu à Toronto les 8 et 9 novembre. Il sera animé par la Dre Shama Rangwala
@@ -24,11 +37,6 @@ réunissant des universitaires et des médias indépendants autour de thèmes te
 que la justice environnementale et des données, le journalisme noir canadien,
 la race et la culture populaire, ainsi que l’impérialisme canadien.
 
-## Gallery
+# Gallery
 
 {{< carousel images="images/*" interval="2500" aspectRatio="3-4" >}}
-
-
-
-
-

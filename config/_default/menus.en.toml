@@ -17,37 +17,14 @@
   pageRef = "about"
 
 [[main]]
-  name = "Tickets"
-  weight = 20
-  pageRef = "tickets"
-  url = "https://www.eventbrite.ca/e/progressive-publics-a-symposium-connecting-scholarship-independent-media-tickets-1363620498619?viewDetails=true"
-
-[[main]]
-  name = "Schedule"
-  weight = 30
-  pageRef = "schedule"
-
-[[main]]
-  name = "Location"
-  weight = 40
-  pageRef = "location"
-
-[[main]]
   name = "Partners"
   weight = 50
   pageRef = "partners"
 
 [[main]]
-  name = "Past Conferences"
+  name = "Conferences"
   weight = 60
-  pageRef = "past"
-
-# [[subnavigation]]
-#   name = "My Awesome Category"
-#   pre = "github"
-#   weight = 20
-
-
+  pageRef = "conferences"
 
  # -- Footer Menu --
  # The footer menu is displayed at the bottom of the page, just before
